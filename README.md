@@ -1,110 +1,98 @@
-##👋 Hi, I'm Biruk Ahmye
+# 🚀 Biruk Ahmye
+## 🤖 ML & AI Engineer student
 
-🚀 Self-Taught ML & AI Engineer
-💡 Passionate about building intelligent systems & scalable solutions
-🌍 Based in Ethiopia
+---
 
-🧠 About Me
+## 🧠 About Me
+- 🎓 Self-taught Machine Learning & AI Engineer  
+- 🧩 Strong problem-solving (LeetCode & Codeforces)  
+- 📊 Daily practice on Kaggle  
+- ⚙️ Focused on real-world AI systems & deployment  
+- 🔥 Building AI-powered full-stack applications  
 
-🎓 Self-driven learner in Machine Learning & Artificial Intelligence
+---
 
-🧩 Strong problem-solving skills (LeetCode & Codeforces)
+## 🛠️ Tech Stack
 
-📊 Active on Kaggle — practicing daily
+### 👨‍💻 Languages
+- 🐍 Python  
+- 🌐 JavaScript / TypeScript  
+- 🗄️ SQL  
+- 🎨 HTML / CSS  
 
-⚙️ Focused on real-world AI systems & deployment
+---
 
-🔥 Building projects that combine AI + Full-Stack Engineering
+### ⚙️ Frameworks & Libraries
 
-🛠️ Tech Stack
-👨‍💻 Languages
+#### 🤖 Machine Learning / AI
+- PyTorch  
+- TensorFlow  
+- Scikit-learn  
+- XGBoost  
 
-🐍 Python
+#### 🌐 Web Development
+- Flask  
+- React  
+- Node.js  
+- Streamlit  
 
-🌐 JavaScript / TypeScript
+---
 
-🗄️ SQL
+### 🗄️ Databases
+- MongoDB  
+- SQL Databases  
 
-🎨 HTML / CSS
+---
 
-⚙️ Frameworks & Libraries
+### ☁️ Tools & Platforms
+- VS Code / Cursor  
+- Docker  
+- Supabase  
+- Microsoft Azure  
 
-🤖 ML/AI:
+---
 
-PyTorch
+## 🧪 What I Do
+- 🔍 Build ML models from scratch  
+- 📊 Data analysis & prediction systems  
+- 🌐 Full-stack AI applications  
+- 🚀 Deploy models using Docker & cloud  
+- 📈 Practice & compete on Kaggle  
 
-TensorFlow
+---
 
-Scikit-learn
+## 🧩 Problem Solving
+- 🧠 Solved problems on:
+  - LeetCode  
+  - Codeforces  
 
-XGBoost
+- ⚡ Strong in:
+  - Data Structures & Algorithms  
+  - Optimization & logic building  
 
-🌐 Web Development:
+---
 
-Flask
+## 🚀 Current Focus
+- 🔬 Advanced ML & Deep Learning  
+- 🤖 AI-powered applications  
+- ⚙️ Scalable backend systems  
+- ☁️ Cloud ML deployment  
 
-React
+---
 
-Node.js
+## 🎯 Goals
+- 💼 Become ML / AI Engineer  
+- 🌍 Work on impactful global systems  
+- 🧠 Build intelligent real-world solutions  
 
-Streamlit
+---
 
-🗄️ Databases
+## 📫 Contact
+- LinkedIn: (add link)  
+- Kaggle: (add link)  
+- GitHub: You’re here 😄  
 
-🟢 MongoDB
+---
 
-🔵 SQL Databases
-
-☁️ Tools & Platforms
-
-💻 VS Code / Cursor
-
-🐳 Docker (Deployment)
-
-⚡ Supabase
-
-☁️ Microsoft Azure
-
-🧪 What I Do
-
-🔍 Build Machine Learning models from scratch
-
-📊 Work on data analysis & predictive systems
-
-🌐 Develop full-stack AI applications
-
-🚀 Deploy models using Docker & cloud platforms
-
-📈 Practice and compete on Kaggle
-
-🧩 Problem Solving
-
-🧠 Solved hundreds of problems on:
-
-LeetCode
-
-Codeforces
-
-⚡ Strong in:
-
-Data Structures & Algorithms
-
-Optimization & logic building
-
-🚀 Current Focus
-
-🔬 Advanced ML & Deep Learning
-
-🤖 AI-powered applications
-
-⚙️ Scalable backend systems
-
-☁️ Cloud-based ML deployment
-
-🎯 Goals
-
-💼 Become a top ML Engineer / AI Engineer
-
-🌍 Work on impactful global AI systems
-
-🧠 Build intelligent platforms that solve real-world problems
+## ⚡ Fun Fact
+> Consistency + Curiosity = Mastery 🔥
