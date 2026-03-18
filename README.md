@@ -1,7 +1,11 @@
 # 🚀 Biruk Ahmye
 ## 🤖 ML & AI Engineer student 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Biruk+Ahmye;Study+ML+/+AI&repeat=true"/>
+</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="450"/>
+  <img src="https://komarev.com/ghpvc/?username=birukahmye&color=blue"/>
 </p>
 
 ---
