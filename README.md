@@ -87,10 +87,6 @@
 
 ---
 
-## 📫 Contact
-- LinkedIn: (add link)  
-- Kaggle: (add link)  
-- GitHub: You’re here 😄  
 
 ---
 
