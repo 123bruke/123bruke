@@ -1,6 +1,7 @@
 # 🚀 Biruk Ahmye
-## 🤖 ML & AI Engineer student    <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+## 🤖 ML & AI Engineer student 
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="450"/>
 </p>
 
 ---
