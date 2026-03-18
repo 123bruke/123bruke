@@ -1,7 +1,7 @@
 # 🚀 Biruk Ahmye
 ## 🤖 ML & AI Engineer student 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Biruk+Ahmye;Study+ML+/+AI&repeat=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Biruk+Ahmye;Study+ML+/+AI + Enginering &repeat=true"/>
 </h1>
 
 <p align="center">
