@@ -1,4 +1,4 @@
-👋 Hi, I'm Biruk Ahmye
+##👋 Hi, I'm Biruk Ahmye
 
 🚀 Self-Taught ML & AI Engineer
 💡 Passionate about building intelligent systems & scalable solutions
