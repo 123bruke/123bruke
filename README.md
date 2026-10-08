@@ -1,6 +1,6 @@
 # Biruk Ahmye
 
-## ML & AI Engineer Student
+## AI and Fullstack Engineer 
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=650&lines=Biruk+Ahmye;Machine+Learning+%26+AI+Engineer;Building+intelligent+solutions;Always+learning+%26+improving" alt="Typing SVG"/>
