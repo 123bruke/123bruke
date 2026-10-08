@@ -90,17 +90,7 @@ Active in algorithmic problem-solving and data structure challenges:
   </a>
 </p>
 
----
-
-## Current Focus
-
-- Deep Learning and advanced ML concepts
-- AI-powered application development
-- Scalable backend systems
-- MLOps and cloud deployment
-- Production-ready data-driven solutions
-
----
+------
 
 ## Connect
 
